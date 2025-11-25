@@ -5,6 +5,7 @@
 - Entity-Relationship Design
 - Shared secret
 - Encoding, Encryption, Hashing
+- Git
 
 ## Senior Software Engineer
 
